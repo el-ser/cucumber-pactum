@@ -1,0 +1,12 @@
+{
+  "name": "cucumber-pactum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/el-ser/cucumber-pactum.git",
+  "author": "Manuel Serafin Bugarin <elser.code@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.4.0",
+    "pactum": "^3.1.10"
+  }
+}
